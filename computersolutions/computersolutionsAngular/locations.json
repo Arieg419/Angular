@@ -1,0 +1,29 @@
+[
+ {
+   "id" : 1,
+   "name" : "Lynn Locaction",
+   "street_address" : "57 Fairview Avenue",
+   "city" : "The Bronx",
+   "state" : "New York",
+   "zip" : "11024",
+   "phone" : "054-8070715246"
+ },
+ {
+   "id" : 2,
+   "name" : "Zen Palace",
+   "street_address" : "42 Cherry Lane",
+   "city" : "Great Neck, New York",
+   "state" : "New York",
+   "zip" : "11024",
+   "phone" : "054-8070715246"
+ },
+ {
+   "id" : 3,
+   "name" : "Mexico City",
+   "street_address" : "Somewhere Over the Rainbow",
+   "city" : "Mejico",
+   "state" : "Columbia",
+   "zip" : "11024",
+   "phone" : "054-8070715246"
+ }
+]
