@@ -87,6 +87,12 @@ angular.module('ngSocial.facebook', ['ngRoute','ngFacebook'])
 			// https://graph.facebook.com/881883321891462/picture?type=large&width=720
 			// the second one is how youre going to make the request to user photo
 
+			//fields : {'about,address,bio,birthday,cover,devices,education,email,first_name,gender,hometown,id,interested_in,last_name,middle_name,political,religion,relationship_status,work'}
+
+			// $facebook.api("/881883321891462", fields {'about,address,bio,birthday,cover,devices,education,email,first_name,gender,hometown,id,interested_in,last_name,middle_name,political,religion,relationship_status,work'}).then(function(response) {
+			// 	console.log(response.data);
+			// });
+
 		},
 		function(err){
 			$scope.welcomeMsg = "Please Log In";
